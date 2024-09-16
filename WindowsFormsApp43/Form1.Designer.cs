@@ -35,14 +35,14 @@
             // panel1
             // 
             this.panel1.BackColor = System.Drawing.SystemColors.ActiveCaption;
-            this.panel1.Location = new System.Drawing.Point(156, 42);
+            this.panel1.Location = new System.Drawing.Point(68, 26);
             this.panel1.Name = "panel1";
-            this.panel1.Size = new System.Drawing.Size(446, 255);
+            this.panel1.Size = new System.Drawing.Size(640, 311);
             this.panel1.TabIndex = 0;
             // 
             // button1
             // 
-            this.button1.Location = new System.Drawing.Point(323, 331);
+            this.button1.Location = new System.Drawing.Point(334, 355);
             this.button1.Name = "button1";
             this.button1.Size = new System.Drawing.Size(75, 23);
             this.button1.TabIndex = 1;
